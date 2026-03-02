@@ -1,5 +1,9 @@
 **Project Overview**
 The dashboard provides a high-level executive summary of sales health, with interactive features to drill down into specific dates, categories, and geographic regions.
+
+<img width="1242" height="785" alt="dashboards" src="https://github.com/user-attachments/assets/056f7106-7d61-40f5-a330-f8c2e2f5bbf5" />
+
+
 **Key Insights & Findings**
 1. Revenue Performance
 Current Standing: The organization generated 19.16M in total sales, matching exactly with the previous year's performance (0.00% growth). This suggests a stabilized market presence but highlights a need for new growth strategies.
